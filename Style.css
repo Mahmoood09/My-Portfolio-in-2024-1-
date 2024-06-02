@@ -1,0 +1,32 @@
+body{
+background-color: darkolivegreen;
+justify-content: center; 
+    align-items: center; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.intro{
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+}
+.font-2{
+   color: aliceblue;
+    font-style: italic ;
+}
+.image{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: auto;
+}
+.social-media-links{
+    border-radius: 50%;
+    padding: 10px; 
+    margin-top: 20px;
+    font-size: 40px;
+}
+.im{
+    margin: auto;
+    display: flex;
+}
